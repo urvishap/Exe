@@ -21,7 +21,7 @@ public class GitPractice {
         
         //hellooo
         
-        //made changes online
+        //pull practice made changes online
         
     }
     
