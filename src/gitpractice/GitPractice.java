@@ -25,6 +25,8 @@ public class GitPractice {
         
         //fetch/merge practice
         
+        //fetch 2
+        
     }
     
 }
