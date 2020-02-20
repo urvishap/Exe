@@ -23,6 +23,8 @@ public class GitPractice {
         
         //pull practice made changes online
         
+        //fetch/merge practice
+        
     }
     
 }
